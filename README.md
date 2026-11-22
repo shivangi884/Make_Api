@@ -128,7 +128,7 @@ Cloudinary is used for image storage and Multer is used to handle image uploads.
 
 ## 🎥 Project Video Demonstration
 
-**Video Link:** [Add Your Project Video Link Here]([https://drive.google.com/file/d/1AOPGd-Pg8ihKvakA4xV24jHEfzIi-1PO/view?usp=drive_link](https://drive.google.com/file/d/1AOPGd-Pg8ihKvakA4xV24jHEfzIi-1PO/view?usp=sharing))
+**Video Link:** [Add Your Project Video Link Here](https://drive.google.com/file/d/1AOPGd-Pg8ihKvakA4xV24jHEfzIi-1PO/view?usp=drive_link)
 
 ## 🔐 Environment Variables
 
